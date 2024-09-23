@@ -16,35 +16,36 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## Screenshots
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Home Screen
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+<img src="./assets/screenshots/home_page.jpg" alt="Home Screen" height="500">
 
-## Get a fresh project
+### Audio Screen
 
-When you're ready, run:
+<img src="./assets/screenshots/audio_page.jpg" alt="Audio Screen" height="500">
 
-```bash
-npm run reset-project
-```
+### Timer Screen
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+<img src="./assets/screenshots/timer_page.jpg" alt="Audio Screen" height="500">
 
-## Learn more
+### Set Timer Screen
 
-To learn more about developing your project with Expo, look at the following resources:
+<img src="./assets/screenshots/set_timer_page.jpg" alt="Audio Screen" height="500">
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+### Audio Screen
 
-## Join the community
+<img src="./assets/screenshots/audio_page.jpg" alt="Audio Screen" height="500">
 
-Join our community of developers creating universal apps.
+### Countdown Screen
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<img src="./assets/screenshots/countdown.jpg" alt="Audio Screen" height="500">
+
+### Affirmations Screen
+
+<img src="./assets/screenshots/affirmations_page.jpg" alt="Audio Screen" height="500">
+
+### Affirmations Screen with text
+
+<img src="./assets/screenshots/affirmations_text.jpg" alt="Audio Screen" height="500">
