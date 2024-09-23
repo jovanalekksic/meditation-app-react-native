@@ -23,9 +23,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 <img src="./assets/screenshots/home_page.jpg" alt="Home Screen" height="500">
 
 ### Audio Screen
-
+<p>
 <img src="./assets/screenshots/audio_page.jpg" alt="Audio Screen" height="500">
-
+</p>
 ### Timer Screen
 
 <img src="./assets/screenshots/timer_page.jpg" alt="Audio Screen" height="500">
